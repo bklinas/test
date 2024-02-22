@@ -1,0 +1,28 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 8px;
+    text-align: center;
+    border: 1px solid #c7c1e0;
+}
+
+th {
+    background-color: #423f55;
+}
+
+tr:nth-child(even) {
+    background-color: #7a82a5;
+}
+h1{
+    color:rgb(51, 58, 71);
+    text-align: center;
+}
+h2{
+    color: rgb(51, 58, 71);
+}
+body{
+    background-color: rgb(109, 107, 139);
+}
